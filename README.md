@@ -13,3 +13,4 @@ Scripts used to construct an MSM for the conformational transitions of an outer 
 4. ITS.py: Determines MSM lag time
 5. MSM.py: Builds MSM using num of TICS/Microstates and lag time. Can save MSM and clusters for easy access in later commands
 6. Save_data.py: Saves TICA and data information as .pickle files for quick loading
+7. Free_En.py: Plots Free Energy profiles in desired reaction coordintees using either TICA or any desired coordinate 
