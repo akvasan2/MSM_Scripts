@@ -19,6 +19,7 @@ cmap="RdBu_r"
 
 ######################Loading data#################
 ###################################################################
+
 data = []
 pwd = '/Scr/nandan/OmpF/Ompf-Trimer/equilibration_150mM_NaCl/Analysis/Distance_for_MSM'
 

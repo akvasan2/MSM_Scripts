@@ -1,4 +1,5 @@
 proc dist {mono kk_h2 vv_o don_resid acpt_resid frame} {
+
 	set kk_h $kk_h2
 	if {$don_resid == 256 || $don_resid == 312} {
 		set kk_h {HN}
