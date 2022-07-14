@@ -1,5 +1,6 @@
 # MSM_Scripts
 
+Contributors: Archit Vasan and Nandan Haloi
 ## General overview
 
 Scripts used to construct an MSM for the conformational transitions of an outer membrane beta barrel.
